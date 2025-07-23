@@ -1,4 +1,4 @@
-#NameError: name 'a' is not defined
+#NameError: name  is not defined
 #TypeError: unsupported operand type(s) for /: 'str' and 'str'
 #KeyError: 104 not in the dictionary
 #AttributeError: 'dict' object has no attribute 'add'
